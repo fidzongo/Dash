@@ -3,11 +3,8 @@ Reporting de données avec Dash
 
 # Installation
 ```python
-pip install dash
-pip install pandas
-
+pip install dash pandas matplotlib numpy
 ou
-
 pip install -r requirements.txt
 ```
 
