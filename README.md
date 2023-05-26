@@ -1,5 +1,5 @@
 # Dash
-Reporting de données avec Dash
+Dashboard avec Dash
 
 # Installation
 ```python
